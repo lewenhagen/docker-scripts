@@ -2,6 +2,8 @@
 #
 # imagesorter-v2
 #
+# Repo: https://github.com/lewenhagen/imageSorter
+#
 # A script to initialize imagesorter-v2 Docker image
 
 mkdir Result Unsorted
