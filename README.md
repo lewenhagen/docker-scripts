@@ -6,4 +6,5 @@ Bashscript for handling Docker projects
 ### imagesorter-v2.bash
 
 The script creates the required folders and starts the docker container if there are files in the default folder.  
-Repo: [imageSorter](https://github.com/lewenhagen/imageSorter)
+Github: [imageSorter](https://github.com/lewenhagen/imageSorter)  
+Docker hub: [imagesorter-v2](https://hub.docker.com/r/lewenhagen/imagesorter-v2)
