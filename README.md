@@ -2,17 +2,18 @@
 Bashscript for handling Docker projects
 
 
+### imagesorter-v2
 
-### imagesorter-v2.bash
-
-The script creates the required folders and starts the docker container if there are files in the default folder.  
 Github: [imageSorter](https://github.com/lewenhagen/imageSorter)  
 Docker hub: [imagesorter-v2](https://hub.docker.com/r/lewenhagen/imagesorter-v2)
 
+#### How-to
 
+Download the corresponding scriptfile:
 
-### imagesorter-v2.cmd
+* Windows `.cmd`
+* Unix `.bash`
 
-The script creates the required folders and starts the docker container if there are files in the default folder.  
-Github: [imageSorter](https://github.com/lewenhagen/imageSorter)  
-Docker hub: [imagesorter-v2](https://hub.docker.com/r/lewenhagen/imagesorter-v2)
+Run the script and put your photos in the folder "Unsorted". The folder gets created if it does not exist - then quit the program and insert your photos.
+
+Run the script again and select: 1 to start the process. The resulting photos will end up in a created folder named "Result". Your original photos will be intact.
