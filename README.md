@@ -11,7 +11,7 @@ Docker hub: [imagesorter-v2](https://hub.docker.com/r/lewenhagen/imagesorter-v2)
 
 Download the corresponding scriptfile:
 
-* Windows `.cmd`
+* Windows `.cmd` (needs you to grant access to shared folder)
 * Unix `.bash`
 
 Run the script and put your photos in the folder "Unsorted". The folder gets created if it does not exist - then quit the program and insert your photos.
